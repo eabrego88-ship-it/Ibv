@@ -1,0 +1,6 @@
+{
+  "name": "Iglesia Bautista Vida - IBV",
+  "description": "Sitio web oficial de la Iglesia Bautista Vida (IBV) en Tocumen, La Siesta, Panamá. Una iglesia para toda la familia: cultos, ministerios, rutas y comunidad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
